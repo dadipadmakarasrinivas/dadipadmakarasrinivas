@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there �, I am Padmakara Srinivas.
 
 <!--
 **dadipadmakarasrinivas/dadipadmakarasrinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science and Analytics
-- 🌱 I’m currently learning Data Science,Machine learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Want me to connect to linkedin: https://www.linkedin.com/in/dadi-srinivas-b226b910a/
+
+
 -->
