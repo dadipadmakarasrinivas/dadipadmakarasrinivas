@@ -8,8 +8,6 @@ Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadipadmakarasrinivas&layout=compact)](https://github.com/dadipadmakarasrinivas/github-readme-stats)
 
 
-Walktime Stats:
-[![Padmakarasrinivas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dadipadmakarasrinivas)](https://github.com/dadipadmakarasrinivas/github-readme-stats)
 
 
 Recent Activity:
