@@ -9,6 +9,9 @@ Languages and Tools :
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder_readme_banner.png">
+<img height="32" width="32" src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder_readme_banner.png">
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 
 
