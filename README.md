@@ -1,5 +1,11 @@
-### Hi there �, I am Padmakara Srinivas.
+### Hi there , I am Padmakara Srinivas.
 
+
+
+Top Languages:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadipadmakarasrinivasa&layout=compact)](https://github.com/dadipadmakarasrinivas/github-readme-stats)
 
 
 
