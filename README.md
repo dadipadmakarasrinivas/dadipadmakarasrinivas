@@ -1,7 +1,10 @@
 ### Hi there �, I am Padmakara Srinivas.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadipadmakarasrinivas)](https://github.com/dadipadmakarasrinivas/github-readme-stats)
+
+
+Recent Activity:
+[![dadipadmakarasrinivas GitHub stats](https://github-readme-stats.vercel.app/api?username=dadipadmakarasrinivas)](https://github.com/dadipadmakarasrinivas/github-readme-stats)
 
 
 
